@@ -1,0 +1,6 @@
+Agent_Age,Agent_Rating,distance_km,order_hour,order_dayofweek,pickup_delay_mins,weather,traffic_level,Vehicle,Area,Category
+26,4.7,12.073551890748645,0,0,1225.0,Sunny,Jam ,scooter ,Metropolitian ,Electronics
+37,5.0,7.761422437275377,0,2,0.0,Sunny,Low ,scooter ,Other,Electronics
+26,4.5,12.484641305205987,0,5,1145.0,Stormy,Medium ,motorcycle ,Metropolitian ,Clothing
+27,4.6,20.17900385808542,0,4,1210.0,Fog,Jam ,scooter ,Metropolitian ,Cosmetics
+23,4.8,7.562414628937605,0,1,1090.0,Cloudy,Medium ,motorcycle ,Metropolitian ,Cosmetics

@@ -1,0 +1,10 @@
+artifact_location: file:///mnt/e/Github/Amazon-Delivery-Time_Prediction/mlruns/356845802099225555/models/m-d570cd7b8e3d43009b3744c2b109fd33/artifacts
+creation_timestamp: 1758466639623
+experiment_id: '356845802099225555'
+last_updated_timestamp: 1758466646110
+model_id: m-d570cd7b8e3d43009b3744c2b109fd33
+model_type: null
+name: rf_model
+source_run_id: f0fb6b6d884c431597ace84dff2b364d
+status: 2
+status_message: null

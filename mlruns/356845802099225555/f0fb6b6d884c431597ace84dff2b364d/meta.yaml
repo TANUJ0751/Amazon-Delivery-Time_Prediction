@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/e/Github/Amazon-Delivery-Time_Prediction/mlruns/356845802099225555/f0fb6b6d884c431597ace84dff2b364d/artifacts
+end_time: 1758466646303
+entry_point_name: ''
+experiment_id: '356845802099225555'
+lifecycle_stage: active
+run_id: f0fb6b6d884c431597ace84dff2b364d
+run_name: rf_tuned_example
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758466637720
+status: 3
+tags: []
+user_id: tanuj
